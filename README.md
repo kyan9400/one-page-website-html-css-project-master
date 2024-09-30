@@ -30,7 +30,3 @@ This repository contains the source code for the portfolio website of Alhassan A
 - **Customizing Content**: You can update the content in `index.html` to reflect new projects, services, or contact details.
 - **Modifying Styles**: Edit `style.css` to change the look and feel of the website.
 - **Enhancing Interactivity**: Modify `app.js` to add or update JavaScript functionality for the website.
-
-## License
-
-This project is licensed under the terms of the MIT license. See the `LICENSE` file for details.
